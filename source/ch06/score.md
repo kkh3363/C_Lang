@@ -1,4 +1,4 @@
-pre
+<pre>
 score = 82
 
 90 ~ 100 : A
@@ -8,7 +8,7 @@ score = 82
  ~ 59 : F
 using switch statement
 print degree of score?
-pre
+</pre>
 ```
 #include <stdio.h>
 
